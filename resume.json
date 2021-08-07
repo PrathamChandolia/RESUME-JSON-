@@ -6,7 +6,7 @@
 		"email": "2020KUEC2021@IIITKOTA.AC.IN",
 		"phone": "9549325279",
 		
-		"summary": "1st year student of IIITKOTA  ",
+		"summary": "Hello There! My name is Pratham Chandolia and I am a undergrad at Indian Institute of Information Technology Kota. I am pursuing Electronics and Communication Engineering(ECE) branch.",
 		"location": {
 			"address": " C-57, MAHESH NAGAR, JAIPUR ",
 			"postalCode": "302015",
@@ -39,7 +39,7 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "C", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript", "C", "Git/Github", "Canva"]
 	}],
 	"interests": [{
 		"name": "Sports",
